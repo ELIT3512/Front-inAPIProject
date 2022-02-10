@@ -1,4 +1,3 @@
-
 const contactsDiv = document.getElementById('contacts');
 let input = document.getElementsByTagName("input")[0];
 let subButton = document.getElementById("subB");
@@ -45,3 +44,4 @@ fetch(`https://api.dictionaryapi.dev/api/v2/entries/en/test`)
          
     //   })
      
+
